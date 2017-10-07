@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WRMSWhenDoesthePeriodEnd.iml" filepath="$PROJECT_DIR$/WRMSWhenDoesthePeriodEnd.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrms-when-does-the-period-end.iml" filepath="$PROJECT_DIR$/wrms-when-does-the-period-end.iml" />
     </modules>
   </component>
 </project>
